@@ -27,3 +27,6 @@ Thumbs.db
 
 # Third-party audio files (not original work)
 Scream03.mp3
+
+# Release packages (uploaded to GitHub Releases separately)
+*.zip
