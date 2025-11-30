@@ -18,8 +18,9 @@ A Windows desktop application that automatically moves the mouse cursor to negat
 - ⚙️ **Configurable Settings** - Customize behavior through settings dialog
 
 ## 🎃 Demo
-
-_[Screenshot or GIF demonstration will be added here]_
+![Scrrenshot](./still_1.3.1_0.png)
+![Tasktray](./tasktray_crop.png)
+![Setting](./setting.png)
 
 ## 🚀 Getting Started
 
