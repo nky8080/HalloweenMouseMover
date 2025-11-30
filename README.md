@@ -156,6 +156,18 @@ This transparency allows others to understand not just the final code, but the e
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### Third-Party Libraries
+
+This application uses the following open-source libraries:
+
+- **FlaUI** (Apache License 2.0) - UI Automation library
+  - [https://github.com/FlaUI/FlaUI](https://github.com/FlaUI/FlaUI)
+- **NAudio** (MIT License) - Audio playback library
+  - [https://github.com/naudio/NAudio](https://github.com/naudio/NAudio)
+- **.NET Runtime Libraries** (MIT License) - Microsoft .NET components
+
+See [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt) for complete license texts.
+
 ## 🙏 Acknowledgments
 
 - Inspired by the classic Japanese "Chu-Chu Mouse" application
